@@ -93,7 +93,7 @@ AI-powered RetrievalQA system for chatting with PDFs and web content.
 
 ## 📊 GitHub Stats
 
-![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankitjha209&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ankitjha209&show_icons=true&theme=tokyonight)
 
 ---
 
